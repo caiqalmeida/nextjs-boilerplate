@@ -9,6 +9,7 @@ Verifica erros de código e encontra problemas
 
 Plugins adicionados:
 - eslint-plugin-react-hooks
+- eslint-plugin-prettier : roda o prettier como uma regra do eslint
 
 Rules adicionadas:
 - prop-types: como vamos usar typescript, não é necessário esta regra
